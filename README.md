@@ -1,2 +1,4 @@
 # DEM-
-Digital Elevation Model 
+DTM 
+DSM
+DHM
