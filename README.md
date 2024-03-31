@@ -1,4 +1,4 @@
-# DEM-
+# DEM
 DTM 
 DSM
 DHM
